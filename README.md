@@ -6,6 +6,4 @@
 ## Questo repository è senza licenza proprio per consentire a tutti di caricare i file.
 ### **RICORDO CHE [IO](https://github.com/PiBOH) NON MI ASSUMO NESSUNA RESPONSABILITÀ**
 
-# PER FAVORE NON CARICARE ROBA ILLEGALE
-
-~~
+# PER FAVORE NON CARICARE ROBA ILLEGALE!
