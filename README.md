@@ -1,9 +1,9 @@
-## Questo repo serve solo come "server" infatti ha lo solo scopo di dovere archiviare file per renderli disponibili in rete
+## This repo only serves as a "server"; in fact, its sole purpose is to store files to make them available online
 
-# **[IO](https://github.com/PiBOH) NON MI ASSUMO NESSUNA RESPONSABILITÀ RIGUARDANTE IL CONTENUTO DEI FILE CARICATI**
-## **OGNI DOWNLOAD è A TUO RISCHIO E PERICOLO DATO CHE IL CONTENUTO DEI FILE NON VIENE CONTROLLATO!**
+# **[I](https://github.com/PiBOH) ASSUME NO LIABILITY REGARDING THE CONTENT OF THE UPLOADED FILES**
+## **EVERY DOWNLOAD IS AT YOUR OWN RISK SINCE THE CONTENT OF THE FILES IS NOT CHECKED!**
 
-## Questo repository è senza licenza proprio per consentire a tutti di caricare i file.
-### **RICORDO CHE [IO](https://github.com/PiBOH) NON MI ASSUMO NESSUNA RESPONSABILITÀ**
+## This repository is unlicensed precisely to allow everyone to upload files.
+### **I REMIND YOU THAT [I](https://github.com/PiBOH) ASSUME NO LIABILITY**
 
-# PER FAVORE NON CARICARE ROBA ILLEGALE!
+# PLEASE DO NOT UPLOAD ILLEGAL STUFF!
